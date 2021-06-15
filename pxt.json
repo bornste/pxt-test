@@ -1,0 +1,10 @@
+{
+    "name": "tropic",
+    "description": "A tropical fruit paradise.",
+    "files": [
+        "main.ts"
+    ],
+    "dependencies": {
+        "core": "file:../core"
+    }
+}
